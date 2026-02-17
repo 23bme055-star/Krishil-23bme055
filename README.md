@@ -1,7 +1,4 @@
-Here is your project written in a clean, professional **GitHub README.md format** 👇
-(You can directly copy-paste this into your `README.md` file.)
 
----
 
 # 🧪 Three-Tank Dynamic Mixing System Simulation
 
