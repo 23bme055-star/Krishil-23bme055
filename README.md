@@ -68,6 +68,8 @@ Let:
 ]
 
 This is a **coupled linear first-order ODE system**.
+<img width="235" height="141" alt="image" src="https://github.com/user-attachments/assets/e8b4a5b6-6fe3-4d73-9785-193933b47ba8" />
+<img width="474" height="414" alt="image" src="https://github.com/user-attachments/assets/d03e8404-b8df-4a07-b6c7-65e8d1d38824" />
 
 ---
 
@@ -174,6 +176,8 @@ grid on
 | Low Initial  | Increasing | 7.5, 3.75, 3.75 |
 | High Initial | Decreasing | 7.5, 3.75, 3.75 |
 | Equilibrium  | Constant   | 7.5, 3.75, 3.75 |
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 Both initial conditions converge to the **same equilibrium**, proving system stability.
 
